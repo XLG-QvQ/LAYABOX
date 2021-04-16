@@ -49,11 +49,7 @@
   margin-bottom: 4rem;
 }
 .wapper .engine .engine_ul li .li_img {
-  float: left;
   padding: 0 1.2rem;
-}
-.wapper .engine .engine_ul li .li_div {
-  float: left;
 }
 .wapper .engine .engine_ul li .li_div h4 {
   color: #333;
@@ -65,4 +61,38 @@
   line-height: 2.4rem;
   font-size: 1.4rem;
   color: #666;
+}
+.wapper .adv {
+  width: 100%;
+  padding-top: 6.3rem;
+  padding-bottom: 8.9rem;
+  background: url('../images/adv_bg.png') no-repeat 15% 18.9rem;
+  border-top: 1px solid #eaeaee;
+}
+.wapper .adv .title {
+  margin-left: 45%;
+}
+.wapper .adv .title h2 {
+  font-size: 4.8rem;
+  font-weight: bold;
+  color: #8fc31f;
+  line-height: 14.8rem;
+}
+.wapper .adv .title ul li {
+  height: 5.4rem;
+  line-height: 5.4rem;
+  text-indent: 7rem;
+  margin-bottom: 1.6rem;
+}
+.wapper .adv .title ul li:first-child {
+  background: url('../images/adv_pic1.png') no-repeat 0.6rem center;
+}
+.wapper .adv .title ul li:nth-child(2) {
+  background: url('../images/adv_pic2.png') no-repeat 0.6rem center;
+}
+.wapper .adv .title ul li:nth-child(3) {
+  background: url('../images/adv_pic3.png') no-repeat 0.6rem center;
+}
+.wapper .adv .title ul li:nth-child(4) {
+  background: url('../images/adv_pic4.png') no-repeat 0.6rem center;
 }
