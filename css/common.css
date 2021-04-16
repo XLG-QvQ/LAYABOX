@@ -96,3 +96,44 @@
 .wapper .adv .title ul li:nth-child(4) {
   background: url('../images/adv_pic4.png') no-repeat 0.6rem center;
 }
+.wapper .product {
+  width: 100%;
+  background-color: #0079d7;
+  padding-top: 3.4rem;
+  padding-bottom: 6.6rem;
+}
+.wapper .product .title {
+  float: none;
+  margin: auto;
+}
+.wapper .product .title h2 {
+  line-height: 20.4rem;
+  font-size: 4.8rem;
+  color: #fffefe;
+  text-align: center;
+}
+.wapper .product .content {
+  float: none;
+  margin: auto;
+}
+.wapper .product .content ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+.wapper .product .content ul li {
+  margin-bottom: 7.3rem;
+}
+.wapper .product .content ul li .li_img {
+  padding: 0.7rem 2rem;
+}
+.wapper .product .content ul li .li_div h4 {
+  line-height: 2.6rem;
+  font-size: 3.2rem;
+  color: #fffefe;
+}
+.wapper .product .content ul li .li_div p {
+  color: #fffefe;
+  font-size: 1.4rem;
+  line-height: 2em;
+  margin-top: 1.5rem;
+}
