@@ -1,0 +1,169 @@
+.box1 {
+  margin-top: 5rem !important;
+}
+.box1 .ttsss {
+  width: 11%;
+}
+.box1 .box-item {
+  background-color: #8bc01f;
+  padding: 6rem 0;
+}
+.box1 .title {
+  font-size: 4.8rem;
+  padding-left: 6.7rem;
+  color: #fff;
+  background: url(../images/family-icon.png) no-repeat 0 0;
+  background-size: 5.5rem;
+  letter-spacing: 1px;
+}
+.box1 .txt {
+  width: 41%;
+}
+.box1 .txt1 {
+  line-height: 7rem;
+  font-size: 2.4rem;
+  color: #fff;
+  margin-bottom: 3.6rem;
+}
+.box1 .txt2 {
+  line-height: 3rem;
+  color: #fff;
+}
+.box1 .ts {
+  margin-top: 1.8rem;
+  margin-bottom: 1.4rem;
+  font-size: 1.4rem;
+  color: #ffffff;
+  line-height: 3rem;
+}
+.box1 p {
+  padding-left: 1.4rem;
+}
+.box1 .xz {
+  display: block;
+  font-size: 1.4rem;
+  width: 10rem;
+  height: 3.4rem;
+  line-height: 3.4rem;
+  text-align: center;
+  margin-top: 2.9rem;
+  color: #8bc01f;
+  background-color: #e8f2d2;
+  border-radius: 5px;
+}
+.box1 .img {
+  width: 45%;
+  margin-left: 6.2rem;
+}
+.box1 .box-item2 {
+  background: #3393df;
+}
+.box1 .box-item2 .title {
+  background: url(../images/family-icon2.png) no-repeat 0 0;
+  padding-top: 0;
+  padding-bottom: 1.8rem;
+}
+.box1 .box-item2 .img {
+  width: 25% !important;
+  margin-left: -3.2rem !important;
+  margin-right: 1.5rem;
+}
+.box1 .box-item2 .img img {
+  width: 100%;
+}
+.box1 .box-item2 .img2 {
+  margin-top: 10.5rem;
+  margin-left: 0rem !important;
+  width: 25% !important;
+}
+.box1 .box-item2 .img2 img {
+  width: 100%;
+}
+.box1 .box-item2 .txt {
+  width: auto;
+}
+.box1 .box-item2 .txt .txt1 {
+  font-size: 2.4rem;
+  line-height: 4.4rem;
+  margin-bottom: 0;
+}
+.box1 .box-item2 .txt .txt2 {
+  width: 35rem;
+  padding-right: 3.6rem;
+  line-height: 2.8rem;
+}
+.box1 .box-item2 .txt .txt3 {
+  line-height: 4.4rem;
+  font-size: 2.4rem;
+  color: #fff;
+  margin-top: 1.6rem;
+}
+.box1 .box-item2 .txt .txt4 {
+  width: 31.7rem;
+  line-height: 2.4rem;
+  font-size: 1.4rem;
+  color: #fff;
+}
+.box2 .tsss {
+  width: 14%;
+}
+.box2 .boxts {
+  background-color: #f7f7f7;
+}
+.box2 .boxts .title {
+  background: url(../images/family-icon5.png) no-repeat !important;
+}
+.box2 .itemr {
+  width: 39%;
+  margin-top: 8rem;
+  padding-bottom: 8.6rem;
+  margin-left: 3.7rem;
+}
+.box2 .itemr .title {
+  font-size: 4.2rem;
+  color: #3393df;
+  line-height: 4.8rem;
+  margin-top: 0.8rem;
+  text-indent: 6rem;
+  background: url(../images/family-icon3.png) no-repeat;
+}
+.box2 .itemr .txt1 {
+  font-size: 1.8rem;
+  color: #5d5d5d;
+  line-height: 6rem;
+}
+.box2 .itemr .title-s {
+  font-size: 1.8rem;
+  color: #3393df;
+  line-height: 6.7rem;
+}
+.box2 .itemr .ts {
+  line-height: 4.9rem;
+}
+.box2 .itemr .title-s-txt {
+  font-size: 1.4rem;
+  color: #5d5d5d;
+  line-height: 2.4rem;
+  text-indent: 2.4rem;
+}
+.box2 .itemr img {
+  margin-top: 3.5rem;
+  margin-left: 12.2rem;
+}
+.box2 .iteml {
+  margin-right: 0;
+}
+.box2 .iteml .title {
+  font-size: 4.2rem;
+  color: #3393df;
+  line-height: 4.8rem;
+  margin-top: 0.8rem;
+  text-indent: 6rem;
+  background: url(../images/family-icon4.png) no-repeat;
+}
+.box2 .iteml .tss {
+  margin-top: 2.3rem;
+}
+.wapper .footer .content .img ul li .wechat {
+  display: none;
+}
